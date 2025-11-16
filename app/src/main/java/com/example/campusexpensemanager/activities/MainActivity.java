@@ -39,7 +39,6 @@ public class MainActivity extends BaseActivity {
     private Button btnAddExpense, btnViewBudget, btnGenerateReport;
 
     private DatabaseHelper dbHelper;
-    private SessionManager sessionManager;
 
     private CurrencyHelper currencyHelper;
 

@@ -40,7 +40,6 @@ public class IncomeListActivity extends BaseActivity implements IncomeAdapter.On
     private FloatingActionButton fabAddIncome;
 
     private DatabaseHelper dbHelper;
-    private SessionManager sessionManager;
     private CurrencyHelper currencyHelper;
 
     private List<Expense> incomes;

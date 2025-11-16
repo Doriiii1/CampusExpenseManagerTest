@@ -41,7 +41,6 @@ public class SetBudgetActivity extends BaseActivity implements BudgetAdapter.OnB
     private RecyclerView recyclerBudgets;
 
     private DatabaseHelper dbHelper;
-    private SessionManager sessionManager;
     private BudgetAdapter adapter;
 
     private List<Category> categories;

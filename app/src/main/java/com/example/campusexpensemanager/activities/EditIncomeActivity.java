@@ -40,7 +40,6 @@ public class EditIncomeActivity extends BaseActivity {
     private FloatingActionButton fabUpdate;
 
     private DatabaseHelper dbHelper;
-    private SessionManager sessionManager;
     private CurrencyHelper currencyHelper;
 
     private Expense currentIncome;

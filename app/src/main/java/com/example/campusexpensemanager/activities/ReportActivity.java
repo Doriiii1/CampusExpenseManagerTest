@@ -44,7 +44,6 @@ public class ReportActivity extends BaseActivity {
     private Button btnSelectStartDate, btnSelectEndDate, btnExportCSV, btnShareEmail;
 
     private DatabaseHelper dbHelper;
-    private SessionManager sessionManager;
     private CurrencyHelper currencyHelper;
 
     private Calendar startDate, endDate;

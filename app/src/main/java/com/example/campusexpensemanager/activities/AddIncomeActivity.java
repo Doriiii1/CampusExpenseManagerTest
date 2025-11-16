@@ -39,7 +39,6 @@ public class AddIncomeActivity extends BaseActivity {
     private FloatingActionButton fabSave;
 
     private DatabaseHelper dbHelper;
-    private SessionManager sessionManager;
     private CurrencyHelper currencyHelper;
 
     private List<Category> categories;

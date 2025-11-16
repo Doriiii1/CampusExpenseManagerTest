@@ -40,7 +40,6 @@ public class ExpenseListActivity extends BaseActivity implements ExpenseAdapter.
     private CurrencyHelper currencyHelper;
 
     private DatabaseHelper dbHelper;
-    private SessionManager sessionManager;
 
     private List<Expense> expenses; // Đây là danh sách đầy đủ (master list)
 

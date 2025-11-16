@@ -32,7 +32,7 @@ public class RegisterActivity extends BaseActivity {
     private TextView tvLoginLink;
 
     private DatabaseHelper dbHelper;
-    private SessionManager sessionManager;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

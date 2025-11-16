@@ -36,7 +36,6 @@ public class EditBudgetActivity extends BaseActivity {
     private Button btnPeriodStart, btnPeriodEnd, btnUpdate, btnDelete;
 
     private DatabaseHelper dbHelper;
-    private SessionManager sessionManager;
 
     private Budget currentBudget;
     private List<Category> categories;

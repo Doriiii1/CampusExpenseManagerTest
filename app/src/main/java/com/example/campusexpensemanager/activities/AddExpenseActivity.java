@@ -68,7 +68,6 @@ public class AddExpenseActivity extends BaseActivity {
     private CurrencyHelper currencyHelper;
 
     private DatabaseHelper dbHelper;
-    private SessionManager sessionManager;
 
     private List<Category> categories;
     private Calendar selectedDateTime;

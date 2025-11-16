@@ -48,7 +48,6 @@ public class ProfileActivity extends BaseActivity {
     private boolean isCurrencySpinnerInitialized = false;
 
     private DatabaseHelper dbHelper;
-    private SessionManager sessionManager;
     private CurrencyHelper currencyHelper;
     private User currentUser;
 

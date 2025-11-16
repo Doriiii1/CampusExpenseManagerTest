@@ -62,7 +62,6 @@ public class EditExpenseActivity extends BaseActivity {
     private CurrencyHelper currencyHelper;
 
     private DatabaseHelper dbHelper;
-    private SessionManager sessionManager;
 
     private Expense currentExpense;
     private List<Category> categories;

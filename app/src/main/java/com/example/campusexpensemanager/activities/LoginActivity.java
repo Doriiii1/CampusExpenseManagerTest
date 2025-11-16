@@ -33,7 +33,6 @@ public class LoginActivity extends BaseActivity {
     private TextView tvRegisterLink;
 
     private DatabaseHelper dbHelper;
-    private SessionManager sessionManager;
 
     private boolean isPasswordVisible = false;
 
